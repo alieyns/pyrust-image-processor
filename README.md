@@ -20,7 +20,7 @@ A high-performance image processing application that demonstrates Python-Rust in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pyrust-image-processor.git
+   git clone https://github.com/alieyns/pyrust-image-processor.git
    cd pyrust-image-processor
    ```
 
@@ -40,7 +40,12 @@ A high-performance image processing application that demonstrates Python-Rust in
 
 ## Usage
 
-[Add usage instructions and examples here]
+- Add simple filters to an image.
+- Batch process images.
+- Save the processed images.
+- Study the code to learn how to integrate Rust and Python.
+- Build a simple GUI using PySide6.
+- Benchmark the performance of the image processing.
 
 ## Development
 
