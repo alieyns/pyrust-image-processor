@@ -79,3 +79,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - PyO3 team for making Python-Rust integration possible
 - PySide6 for the GUI framework
+
+## Author
+
+**Abbey Mugisha**
+- GitHub: [@alieyns](https://github.com/alieyns)
